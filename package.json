@@ -12,8 +12,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["cli", "vue", "create template", "frontend"],
+  "author": "huanghaichuan",
+  "homepage": "https://github.com/chuanHH/hc-frontend",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chuanHH/hc-frontend"
+  },
   "license": "ISC",
   "dependencies": {
     "commander": "^12.1.0",
