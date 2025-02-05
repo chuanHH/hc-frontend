@@ -1,7 +1,7 @@
 {
   "name": "hc-frontend",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.1.0",
+  "description": "A front-end scaffolding tool",
   "main": "index.js",
   "bin": {
     "hc-frontend": "./index.js"
